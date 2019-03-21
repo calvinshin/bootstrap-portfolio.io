@@ -6,6 +6,10 @@ body{
     color: red;
 }
 
+.image-max{
+    max-width: 500px;
+}
+
 #home{
 
 }
