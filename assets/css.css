@@ -26,3 +26,8 @@ body{
     background: yellow;
     font-size: 90px;
   }
+
+div.card:hover{
+    background: rgb(240, 240, 240);
+    border: 1px rgb(240, 240, 240));
+}
