@@ -1,5 +1,6 @@
 body{
     padding-top: 50px;
+    scroll-behavior: smooth;
 }
 
 .test{
@@ -10,18 +11,6 @@ body{
     max-width: 500px;
 }
 
-#home{
-
-}
-
-#portfolio{
-
-}
-
-#contact{
-    
-}
-
 .highlight {
     background: yellow;
     font-size: 90px;
@@ -29,5 +18,5 @@ body{
 
 div.card:hover{
     background: rgb(240, 240, 240);
-    border: 1px rgb(240, 240, 240));
+    border: 1px rgb(240, 240, 240);
 }
